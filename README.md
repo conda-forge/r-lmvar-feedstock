@@ -1,11 +1,11 @@
-About r-lmvar
-=============
+About r-lmvar-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lmvar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=lmvar
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lmvar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Runs a linear-like regression with in which both the expected value and the variance can vary per observation. The expected values mu follows the standard linear model mu = X_mu * beta_mu. The standard deviation sigma follows the model log(sigma) = X_sigma * beta_sigma. The package comes with two vignettes: 'Intro' gives an introduction, 'Math' gives mathematical details.
 
